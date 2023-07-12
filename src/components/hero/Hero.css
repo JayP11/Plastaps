@@ -1,0 +1,69 @@
+/* .hero_sec {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100px;
+} */
+
+.hero_sec {
+  display: flex;
+  max-width: 1140px;
+  margin: 0px auto;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.hero_inner {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  /* padding: 20px; */
+  gap: 20px;
+}
+
+.buy_car {
+  /* max-width: 525px; */
+  height: 200px;
+  background: #e0ebff;
+  border-radius: 24px;
+  width: 525px;
+  padding: 20px;
+}
+
+.sell_car {
+  max-width: 525px;
+  height: 200px;
+  background: #053d66;
+  border-radius: 24px;
+  width: 525px;
+  padding: 20px;
+}
+
+/* Media Queries */
+@media screen and (max-width: 800px) {
+  .hero_inner {
+    flex-direction: column;
+    display: flex;
+  }
+}
+@media screen and (max-width: 600px) {
+  .buy_car {
+    width: 400px;
+  }
+  .sell_car {
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .hero_p {
+    font-size: 11px !important;
+  }
+  .buy_car {
+    width: 300px;
+  }
+  .sell_car {
+    width: 300px;
+  }
+}

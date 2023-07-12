@@ -1,0 +1,29 @@
+.footer_main {
+  /* display: flex; */
+  align-items: center;
+  gap: 30px;
+  background-color: #1d1d1d;
+  padding: 50px;
+}
+
+.plastaps_logo {
+  /* padding: 10px; */
+}
+.store_btn {
+  /* display: flex; */
+  gap: 20px;
+  /* padding: 10px; */
+}
+
+.store_img_size {
+  display: flex;
+  gap: 10px;
+  alignitems: self-start;
+  flexdirection: column;
+}
+@media screen and (max-width: 429px) {
+  .store_img_size {
+    display: flex;
+    flex-direction: column;
+  }
+}

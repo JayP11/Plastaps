@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1104429.css",
+    "main.js": "/static/js/main.351f5493.js",
+    "static/js/787.ec704a7a.chunk.js": "/static/js/787.ec704a7a.chunk.js",
+    "static/media/Recycle_Resins.jpeg": "/static/media/Recycle_Resins.183903e1995d5178f6a5.jpeg",
+    "static/media/plastaplogo-removebg.png": "/static/media/plastaplogo-removebg.e5ef83a28ef473bd4d7f.png",
+    "static/media/aboutus.jpeg": "/static/media/aboutus.ff69f134d29621dd358b.jpeg",
+    "static/media/plastaplogo.jpg": "/static/media/plastaplogo.e35c2d7d3b1b2f30749e.jpg",
+    "static/media/PLASTIC_RESINS.jpeg": "/static/media/PLASTIC_RESINS.301bbb7c3b42636971ef.jpeg",
+    "static/media/recycle.png": "/static/media/recycle.7c843acb948a4634b106.png",
+    "static/media/google-play-badge.png": "/static/media/google-play-badge.40c132f92c34a4b3b5a0.png",
+    "static/media/app_store_badge.svg": "/static/media/app_store_badge.297a417026aa17818c541bf301f895e8.svg",
+    "index.html": "/index.html",
+    "main.e1104429.css.map": "/static/css/main.e1104429.css.map",
+    "main.351f5493.js.map": "/static/js/main.351f5493.js.map",
+    "787.ec704a7a.chunk.js.map": "/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1104429.css",
+    "static/js/main.351f5493.js"
+  ]
+}

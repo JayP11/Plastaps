@@ -1,0 +1,189 @@
+.about_sec {
+  width: 100%;
+  background-color: #053d66;
+
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+
+  /* margin-bottom: 30px; */
+  /* border-radius: 20px; */
+}
+
+.about_inner {
+  max-width: 1140px;
+  height: 350px;
+  margin: 0px auto;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  /* justify-content: space-between; */
+}
+
+.about_us {
+  max-width: 525px;
+  padding: 20px;
+  text-align: justify;
+}
+
+.about_img {
+  padding: 20px;
+  max-width: 525px;
+}
+
+.about_image_size {
+  width: 422px;
+  height: 225px;
+  border-radius: 20px;
+}
+
+/* Media queries */
+/* @media screen and (max-width: 1220px) {
+  .buy_car {
+    width: 450px;
+  }
+
+  .sell_car {
+    width: 450px;
+  }
+}
+
+@media screen and (max-width: 1040px) {
+  .hero_inner {
+    width: 100%;
+    flex-direction: column;
+    padding: 0px;
+  }
+  .about_inner {
+    height: 100%;
+    flex-direction: column;
+  }
+
+  .about_image_size {
+    width: 500px;
+  }
+
+  .intro_inner {
+    height: 100% !important;
+    flex-direction: column !important;
+  }
+
+  .intro_image_size {
+    width: 500px !important;
+  }
+
+  .cVision_inner {
+    height: 100% !important;
+    flex-direction: column !important;
+  }
+
+  .cVision_image_size {
+    width: 500px !important;
+  }
+}
+@media screen and (max-width: 545px) {
+  .about_us {
+    padding: 0px;
+  }
+
+  .about_img {
+    width: 100%;
+    padding: 0px;
+  }
+
+  .intro_us {
+    padding: 0px !important;
+  }
+
+  .intro_img {
+    padding: 0px !important;
+  }
+
+  .cVision_us {
+    padding: 0px !important;
+  }
+
+  .cVision_img {
+    padding: 0px !important;
+  }
+
+  .home-services-container {
+    margin-top: 0px !important;
+  }
+} */
+/* 
+@media screen and (max-width: 485px) {
+  p {
+    width: 420px !important;
+  }
+
+  .about_image_size {
+    width: 420px;
+  }
+}
+
+@media screen and (max-width: 428px) {
+  p {
+    width: 420px !important;
+  }
+
+  .about_image_size {
+    width: 420px;
+  }
+} */
+
+@media screen and (max-width: 1035px) {
+  .about_p {
+    width: 350px !important;
+  }
+
+  .about_img {
+    padding: 0px;
+  }
+  .about_us {
+    padding: 0px !important;
+  }
+
+  .about_image_size {
+    width: 350px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .about_p {
+    text-align: initial;
+    font-size: 15px;
+    width: 260px !important;
+  }
+
+  .about_image_size {
+    width: 300px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .about_p {
+    width: 460px !important;
+    text-align: justify;
+  }
+  .about_inner {
+    height: 100%;
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  .about_image_size {
+    width: 460px;
+    object-fit: cover !important;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .about_p {
+    width: 350px !important;
+  }
+  .about_image_size {
+    width: 350px;
+    height: 200px;
+  }
+}
